@@ -1,0 +1,15 @@
+fastapi
+numpy
+soundfile
+uvicorn[standard]
+numba
+torch
+tqdm
+more-itertools
+tiktoken==0.3.3
+openai-whisper
+python-multipart
+librosa
+pydub
+requests
+watchdog
